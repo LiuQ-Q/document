@@ -1,0 +1,11 @@
+显示/隐藏表  report-panel-testanalysis  ability-table
+
+能力素养-个人-学科概况  report-panel-compositivestuexamsituationcourse
+能力素养-个人-单科  report-panel-compositivestuexamsituationcourse
+能力素养-群体-教师-班级成绩概况  report-panel-compositiveexamhistory
+能力素养-群体-筛选区县、筛选学校、筛选班级-历次考试概况  report-panel-compositiveexamscoreoverview
+
+微测-测评情况-区县/学校/班级成绩详情  report-panel-newscoreanalysis  学生作答情况-report-panel-newscoreinfo-不改  学习指标掌握情况-report-panel-newknowledgequota
+微测-能力分析-能力水平分布-表格  report-panel-newutsscale
+
+日测-测评情况-知识点掌握情况  report-panel-newknowledgescore
