@@ -9,3 +9,7 @@
 微测-能力分析-能力水平分布-表格  report-panel-newutsscale
 
 日测-测评情况-知识点掌握情况  report-panel-newknowledgescore
+
+综合-测评境况-**成绩详情  report-panel-newcoursegroupscoreinfo
+
+总测分析-测评情况-学习指标掌握情况&各校核心概念掌握情况  report-panel-learningobjectives  z分数和排名  report-panel-scoredetailsrank
