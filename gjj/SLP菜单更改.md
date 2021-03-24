@@ -51,7 +51,7 @@ openExamQuestionsDetail
 群体总测/模拟/微测/日测报告--能力表现中查看相关题目详情
 
 # v2.3.3
-平台统计菜单改三级
+## 平台统计菜单改三级
 
 ## 平台统计-1（管理员、运营管理员、学科管理员）
 
@@ -377,50 +377,90 @@ home.maintenance.statistics.platformretained_home.maintenance.statistics.double_
   "lastview": "faq"
 }
 
-## 平台统计-3（市级/区县/学校管理员、市级/区县教研员）
+4. 问答知识点统计
 
-### 测评使用统计
+问答知识点统计
 
-测评使用统计
+home.maintenance.statistics.platformretained_home.maintenance.statistics.double_report.common.index
 
-home.maintenance.statistics.termteststats_home.maintenance.statistics.termteststats
+3
 
-66
+{
+  "area": "report",
+  "view": "common",
+  "subview": "index",
+  "report_type": "faq"
+}
+
+5. 一对一辅导统计
+
+一对一辅导统计
+
+home.maintenance.statistics.platformretained_home.maintenance.statistics.double_report.common.index.double
+
+4
+
+{
+  "area": "report",
+  "view": "common",
+  "subview": "index",
+  "report_type": "double"
+}
+
+
+## 新增素质测评菜单
+
+1. 平台统计-3
+
+市级管理员、区县管理员、学校管理员
+
+素质测评统计
+
+home.maintenance.statistics.termteststats_home.maintenance.statistics.qomtest
+
+16
 
 {
   "area": "home",
   "view": "maintenance",
   "subview": "statistics",
-  "lastview": "termteststats",
-  "showSubRoute": true
+  "lastview": "qomtest"
 }
 
-1. 总测使用统计
+2. 平台统计-2
 
-总测使用统计
+年级主任
 
-home.maintenance.statistics.termteststats_home.maintenance.statistics.termteststats_home.maintenance.statistics.termteststats
+素质测评统计
 
-0
+home.maintenance.statistics.dailyteststats_home.maintenance.statistics.qomtest
+
+6
 
 {
   "area": "home",
   "view": "maintenance",
   "subview": "statistics",
-  "lastview": "termteststats"
+  "lastview": "qomtest"
 }
 
-2. 总测使用统计
+3. 平台统计-4
 
-总测使用统计
+班主任
 
-home.maintenance.statistics.termteststats_home.maintenance.statistics.termteststats_home.maintenance.statistics.termteststats
+素质测评统计
 
-0
+report.common.index.platform_home.maintenance.statistics.qomtest
+
+6
 
 {
   "area": "home",
   "view": "maintenance",
   "subview": "statistics",
-  "lastview": "termteststats"
+  "lastview": "qomtest"
 }
+
+4. 平台统计-6
+
+2心理  勾选
