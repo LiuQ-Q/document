@@ -53,9 +53,13 @@ openExamQuestionsDetail
 # v2.3.3
 ## 平台统计菜单改三级
 
-## 平台统计-1（管理员、运营管理员、学科管理员）
+### 平台统计-1（管理员、运营管理员、学科管理员）
 
-### 测评使用统计
+#### 顺序
+
+平台活跃、功能使用、报告查看、题库使用、测评使用、资源统计、批阅统计、双师辅导
+
+#### 测评使用统计
 
 测评使用统计
 
@@ -161,7 +165,7 @@ home.maintenance.statistics.platformretained_home.maintenance.statistics.termtes
   "lastview": "healthknowledge"
 }
 
-### 资源统计
+#### 资源统计
 
 资源统计
 
@@ -207,7 +211,7 @@ home.maintenance.statistics.platformretained_home.maintenance.statistics.resourc
   "lastview": "resource"
 }
 
-### 批阅统计
+#### 批阅统计
 
 批阅统计
 
@@ -316,89 +320,29 @@ home.maintenance.statistics.platformretained_home.maintenance.statistics.automar
   "lastview": "thirdmarksetup"
 }
 
-### 双师辅导统计
+#### 双师辅导统计
 
 双师辅导统计
 
-home.maintenance.statistics.platformretained_home.maintenance.statistics.double
+home.maintenance.statistics.platformretained_report.common.index.double
 
-23-
-
-{
-  "area": "home",
-  "view": "maintenance",
-  "subview": "statistics",
-  "lastview": "double",
-  "showSubRoute": true
-}
-
-1. 双师在线统计
-
-双师在线统计
-
-home.maintenance.statistics.platformretained_home.maintenance.statistics.double_home.maintenance.statistics.double
-
-0
-
-{
-  "area": "home",
-  "view": "maintenance",
-  "subview": "statistics",
-  "lastview": "double"
-}
-
-2. 互动课堂统计
-
-互动课堂统计
-
-home.maintenance.statistics.platformretained_home.maintenance.statistics.double_home.maintenance.statistics.livelessonstats
-
-1
-
-{
-  "area": "home",
-  "view": "maintenance",
-  "subview": "statistics",
-  "lastview": "livelessonstats"
-}
-
-3. 问答情况统计
-
-问答情况统计
-
-home.maintenance.statistics.platformretained_home.maintenance.statistics.double_home.maintenance.statistics.faq
-
-2
-
-{
-  "area": "home",
-  "view": "maintenance",
-  "subview": "statistics",
-  "lastview": "faq"
-}
-
-4. 问答知识点统计
-
-问答知识点统计
-
-home.maintenance.statistics.platformretained_home.maintenance.statistics.double_report.common.index
-
-3
+7
 
 {
   "area": "report",
   "view": "common",
   "subview": "index",
-  "report_type": "faq"
+  "report_type": "double",
+  "showSubRoute": true
 }
 
-5. 一对一辅导统计
+1. 一对一辅导统计
 
 一对一辅导统计
 
-home.maintenance.statistics.platformretained_home.maintenance.statistics.double_report.common.index.double
+home.maintenance.statistics.platformretained_report.common.index.double_report.common.index.double
 
-4
+0
 
 {
   "area": "report",
@@ -407,6 +351,65 @@ home.maintenance.statistics.platformretained_home.maintenance.statistics.double_
   "report_type": "double"
 }
 
+2. 双师统计
+
+双师统计
+
+home.maintenance.statistics.platformretained_report.common.index.double_home.maintenance.statistics.double
+
+1
+
+{
+  "area": "home",
+  "view": "maintenance",
+  "subview": "statistics",
+  "lastview": "double"
+}
+
+3. 互动课堂统计
+
+互动课堂统计
+
+home.maintenance.statistics.platformretained_report.common.index.double_home.maintenance.statistics.livelessonstats
+
+2
+
+{
+  "area": "home",
+  "view": "maintenance",
+  "subview": "statistics",
+  "lastview": "livelessonstats"
+}
+
+4. 问答情况统计
+
+问答情况统计
+
+home.maintenance.statistics.platformretained_report.common.index.double_home.maintenance.statistics.faq
+
+3
+
+{
+  "area": "home",
+  "view": "maintenance",
+  "subview": "statistics",
+  "lastview": "faq"
+}
+
+5. 问答知识点统计
+
+问答知识点统计
+
+home.maintenance.statistics.platformretained_report.common.index.double_report.common.index
+
+4
+
+{
+  "area": "report",
+  "view": "common",
+  "subview": "index",
+  "report_type": "faq"
+}
 
 ## 新增素质测评菜单
 
@@ -418,7 +421,7 @@ home.maintenance.statistics.platformretained_home.maintenance.statistics.double_
 
 home.maintenance.statistics.termteststats_home.maintenance.statistics.qomtest
 
-16
+17
 
 {
   "area": "home",
@@ -464,3 +467,5 @@ report.common.index.platform_home.maintenance.statistics.qomtest
 4. 平台统计-6
 
 2心理  勾选
+
+home.maintenance.statistics.qomtest_home.maintenance.statistics.qomtest
