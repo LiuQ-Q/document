@@ -10,8 +10,8 @@
 
 ### 专业技能
 
-* 熟悉 HTML，HTML5，JavaScript，es6 语法，CSS 响应式布局
-* 熟悉 Vue + Vuex + VueRouter 全家桶，熟悉组件的封装，了解 AngularJS
+* 熟悉 HTML，HTML5，JavaScript，es6 语法
+* 熟悉 Vue + Vuex + VueRouter 全家桶，熟悉组件的封装
 * 熟悉 Bootstrap、ElementUI 等UI框架的使用
 * 熟悉 HighCharts、ECharts 进行数据可视化开发
 * 熟悉微信小程序的开发
@@ -28,7 +28,7 @@
 
 ##### 职责：
 
-* 参加项目评审，与后端谈论实现方案，对需求提出改进建议；按时提测，修改 bug 并发布
+* 参加项目评审，与后端讨论实现方案，对需求提出改进建议；按时提测，修改 bug 并发布
 * 基于 Axios 封装请求模块，与服务端进行数据交互
 * 封装 ECharts 组件，复用组件，替换项目中部分已有的图表
 * 使用动态路由，对角色页面权限进行控制
