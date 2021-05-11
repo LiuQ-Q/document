@@ -11,13 +11,12 @@
 ### 专业技能
 
 * 熟练掌握 HTML，CSS，JavaScript 以及前端常用工具
-
-* 熟悉 Vue + Vuex + VueRouter 全家桶，熟悉组件的封装
-* 熟悉 Bootstrap、ElementUI 等UI框架的使用
-* 熟悉 HighCharts、ECharts 进行数据可视化开发
-* 熟悉微信小程序的开发
-* 熟悉 Node，webpack 等前端构建工具进行项目部署
-* 熟悉 Git 代码管理工具，以及 npm 和 yarn 包管理工具等
+* 熟悉 Vue.js 及其周边工具 Vuex VueRouter ElementUI 等
+* 熟悉 HighCharts、ECharts 数据可视化开发
+* 熟悉前端工程化，熟悉 Webpack
+* 熟悉 Git 代码管理工具
+* 了解 Node.js
+* 了解 AngularJS
 
 ---
 
