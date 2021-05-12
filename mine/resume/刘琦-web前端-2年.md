@@ -24,7 +24,7 @@
 
 #### 2020/08-至今　　　　　　北京师范大学高精尖创新中心　　　　　　Web前端
 
-主要负责智慧学伴、PSAA 项目 web 端需求开发、代码优化、功能重构
+主要负责智慧学伴项目、PSAA 项目 web 端需求开发、代码优化、功能重构
 
 #### 2019/03-2020/03　　　　&nbsp;天津橙子科技有限公司　　　　　　　　　Web前端
 
@@ -51,12 +51,14 @@
   * 尽量减少直接对 DOM 元素的操作
 
 <br/>
+<br/>
+<br/>
 
 #### 智慧学伴
 
 简介：智能公共服务平台，旨在提升学生的学习能力和成绩，发现学生的心理隐患等
 
-技术栈：AngularJS 1.x + angular-ui-router + angularAMD + angular-translate + Maven + Grunt
+技术栈：AngularJS 1.x + angular-ui-router + angular-translate + Grunt
 
 职责：
 * 参加项目评审，与后端讨论实现方案，对需求提出改进建议；按时提测，修改 bug 并发布
@@ -76,6 +78,18 @@
 * 使用 Nuxt.js + TypeScript + ElementUI 构建项目前端，使用 webpack 进行项目压缩打包
 * 使用 Egg.js + MySql 构建项目服务端
 * 使用 Nginx 构建服务器，运行于阿里云服务器 CentOS 操作系统 -->
+
+---
+
+### 专业技能
+
+* 熟练掌握 HTML，CSS，JavaScript 以及前端常用工具
+* 熟悉 Vue.js 及其周边工具 Vuex VueRouter ElementUI 等
+* 熟悉 HighCharts、ECharts 数据可视化开发
+* 熟悉前端工程化，熟悉 Webpack
+* 熟悉 Git 基本操作
+* 了解 Node.js
+* 了解 AngularJS
 
 ---
 
