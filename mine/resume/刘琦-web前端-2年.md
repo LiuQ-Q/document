@@ -8,18 +8,6 @@
 
 ---
 
-### 专业技能
-
-* 熟练掌握 HTML，CSS，JavaScript 以及前端常用工具
-* 熟悉 Vue.js 及其周边工具 Vuex VueRouter ElementUI 等
-* 熟悉 ECharts、 HighCharts 数据可视化开发
-* 熟悉前端工程化，熟悉 Webpack
-* 熟悉 Git 基本操作
-* 了解 Node.js
-* 了解 AngularJS
-
----
-
 ### 工作经历
 
 #### 2020/08-至今　　　　　　北京师范大学高精尖创新中心　　　　　　Web前端
