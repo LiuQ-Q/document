@@ -12,7 +12,7 @@
 
 * 熟练掌握 HTML，CSS，JavaScript 以及前端常用工具
 * 熟悉 Vue.js 及其周边工具 Vuex VueRouter ElementUI 等
-* 熟悉 HighCharts、ECharts 数据可视化开发
+* 熟悉 ECharts、 HighCharts 数据可视化开发
 * 熟悉前端工程化，熟悉 Webpack
 * 熟悉 Git 基本操作
 * 了解 Node.js
@@ -46,8 +46,8 @@
 * 使用动态路由，对角色页面权限进行控制
 * 重构报告查看与报告下载功能模块
 * 性能优化：
-  * 通过减小资源体积提升启动速度
-  * 通过图片预加载、懒加载提升网页加载速度
+  * 通过减小资源体积、路由懒加载提升启动速度
+  * 优化同时使用 v-for 与 v-if 的元素
   * 尽量减少直接对 DOM 元素的操作
 
 <br/>
