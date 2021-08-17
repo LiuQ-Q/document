@@ -1,8 +1,8 @@
 html body {
-	height: 100%;
-	width: 100%;
+  height: 100%;
+  width: 100%;
   font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans,
-    sans-serif;
+  sans-serif;
   font-size: 14px;
   line-height: 2;
   color: hsl(220, 14%, 71%);
@@ -10,7 +10,7 @@ html body {
   overflow: initial;
   box-sizing: border-box;
   word-wrap: break-word;
-  padding: 70px 70px 187px 70px;
+  padding: 70px 70px 225px 70px;
 }
 html body > :first-child {
   margin-top: 0;
@@ -39,6 +39,7 @@ html body h2 {
 html body h3 {
   font-size: 1.5em;
   font-weight: 400;
+  padding-bottom: 0.3em;
 }
 html body h4 {
   font-size: 1.25em;
